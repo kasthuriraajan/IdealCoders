@@ -1,1 +1,1 @@
-# Yamaha-jafffna
+This is our second year group project. It is a web based information system for a bike showroom to maintain their website and interact with their customers. We created a dash board to manage their customers’ feedbacks and complaints too. We used HTML5, JavaScript, Bootstrap, PHP, MySQL for this project. 
